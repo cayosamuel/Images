@@ -1,0 +1,267 @@
+{
+  "classes": [
+    {
+      "name": "BalanceNI7",
+      "color": "#ff0000"
+    },
+    {
+      "name": "TabletteUNI7",
+      "color": "#00ff00"
+    }
+  ],
+  "images": [
+    {
+      "file_name": "ezgif-frame-035.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-040.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-039.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-001.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-002.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-003.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-004.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-005.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-006.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-007.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-009.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-010.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-011.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-012.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-013.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-014.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-018.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-021.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-022.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-023.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-024.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-026.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-027.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-028.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-029.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-030.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-031.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-032.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-033.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-034.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "ezgif-frame-036.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    }
+  ],
+  "image_paths": {
+    "ezgif-frame-035.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-035.jpg",
+    "ezgif-frame-040.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-040.jpg",
+    "ezgif-frame-039.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-039.jpg",
+    "ezgif-frame-001.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-001.jpg",
+    "ezgif-frame-002.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-002.jpg",
+    "ezgif-frame-003.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-003.jpg",
+    "ezgif-frame-004.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-004.jpg",
+    "ezgif-frame-005.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-005.jpg",
+    "ezgif-frame-006.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-006.jpg",
+    "ezgif-frame-007.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-007.jpg",
+    "ezgif-frame-009.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-009.jpg",
+    "ezgif-frame-010.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-010.jpg",
+    "ezgif-frame-011.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-011.jpg",
+    "ezgif-frame-012.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-012.jpg",
+    "ezgif-frame-013.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-013.jpg",
+    "ezgif-frame-014.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-014.jpg",
+    "ezgif-frame-018.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-018.jpg",
+    "ezgif-frame-021.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-021.jpg",
+    "ezgif-frame-022.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-022.jpg",
+    "ezgif-frame-023.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-023.jpg",
+    "ezgif-frame-024.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-024.jpg",
+    "ezgif-frame-026.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-026.jpg",
+    "ezgif-frame-027.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-027.jpg",
+    "ezgif-frame-028.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-028.jpg",
+    "ezgif-frame-029.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-029.jpg",
+    "ezgif-frame-030.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-030.jpg",
+    "ezgif-frame-031.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-031.jpg",
+    "ezgif-frame-032.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-032.jpg",
+    "ezgif-frame-033.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-033.jpg",
+    "ezgif-frame-034.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-034.jpg",
+    "ezgif-frame-036.jpg": "C:/Users/senat/teachme/Images/MVI_1512\\images\\ezgif-frame-036.jpg"
+  },
+  "notes": "",
+  "creation_date": "2026-01-31T20:33:43.421431",
+  "last_modified": "2026-01-31T20:33:43.421431"
+}
