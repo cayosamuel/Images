@@ -1,0 +1,74 @@
+{
+  "images": [
+    {
+      "file_name": "v24_frame_0002_2.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 1
+    },
+    {
+      "file_name": "v24_frame_0004_4.00s.png",
+      "height": 0,
+      "width": 0,
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "BalanceUni7"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "area": 676872.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          520,
+          438,
+          1626,
+          438,
+          1626,
+          1050,
+          520,
+          1050
+        ]
+      ],
+      "bbox": [
+        520,
+        438,
+        1106,
+        612
+      ]
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "area": 1162350.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          45,
+          430,
+          1890,
+          430,
+          1890,
+          1060,
+          45,
+          1060
+        ]
+      ],
+      "bbox": [
+        45,
+        430,
+        1845,
+        630
+      ]
+    }
+  ]
+}
