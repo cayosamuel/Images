@@ -1,0 +1,321 @@
+{
+  "classes": [
+    {
+      "name": "Display",
+      "color": "#ff0000"
+    }
+  ],
+  "images": [
+    {
+      "file_name": "v12_frame_0001_2.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              657,
+              540,
+              1092,
+              540,
+              1092,
+              733,
+              657,
+              733
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0002_3.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              728,
+              722,
+              1192,
+              722,
+              1162,
+              518,
+              751,
+              522,
+              727,
+              720
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0003_4.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              746,
+              564,
+              1155,
+              564,
+              1187,
+              769,
+              720,
+              769,
+              746,
+              563
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0004_5.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              715,
+              827,
+              1174,
+              830,
+              1147,
+              624,
+              748,
+              626,
+              716,
+              827
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0005_6.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              733,
+              736,
+              1193,
+              746,
+              1165,
+              543,
+              765,
+              541,
+              731,
+              735
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0006_7.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              730,
+              742,
+              1181,
+              752,
+              1160,
+              554,
+              763,
+              549,
+              730,
+              742
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0007_8.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              715,
+              768,
+              1169,
+              776,
+              1146,
+              571,
+              749,
+              568,
+              716,
+              767
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0008_9.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              710,
+              779,
+              1168,
+              790,
+              1144,
+              585,
+              746,
+              578,
+              710,
+              780
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0009_10.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              788,
+              720,
+              1236,
+              737,
+              1213,
+              544,
+              820,
+              531,
+              791,
+              719
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0010_11.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              772,
+              758,
+              1217,
+              773,
+              1198,
+              571,
+              806,
+              567,
+              772,
+              758
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v12_frame_0011_12.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              767,
+              743,
+              1221,
+              761,
+              1199,
+              556,
+              795,
+              547,
+              766,
+              743
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    }
+  ],
+  "image_paths": {
+    "v12_frame_0001_2.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0001_2.00s.png",
+    "v12_frame_0002_3.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0002_3.00s.png",
+    "v12_frame_0003_4.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0003_4.00s.png",
+    "v12_frame_0004_5.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0004_5.00s.png",
+    "v12_frame_0005_6.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0005_6.00s.png",
+    "v12_frame_0006_7.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0006_7.00s.png",
+    "v12_frame_0007_8.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0007_8.00s.png",
+    "v12_frame_0008_9.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0008_9.00s.png",
+    "v12_frame_0009_10.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0009_10.00s.png",
+    "v12_frame_0010_11.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0010_11.00s.png",
+    "v12_frame_0011_12.00s.png": "D:/Download/Projet balance\\images\\v12_frame_0011_12.00s.png"
+  },
+  "notes": "balance d12\n",
+  "creation_date": "2026-04-30T22:30:16.837082",
+  "last_modified": "2026-04-30T22:34:48.777613"
+}

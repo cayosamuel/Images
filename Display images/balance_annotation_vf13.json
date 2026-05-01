@@ -1,0 +1,266 @@
+{
+  "images": [
+    {
+      "file_name": "v13_frame_0001_2.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 1
+    },
+    {
+      "file_name": "v13_frame_0002_3.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 2
+    },
+    {
+      "file_name": "v13_frame_0003_4.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 3
+    },
+    {
+      "file_name": "v13_frame_0004_5.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 4
+    },
+    {
+      "file_name": "v13_frame_0005_6.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 5
+    },
+    {
+      "file_name": "v13_frame_0006_7.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 6
+    },
+    {
+      "file_name": "v13_frame_0007_8.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 7
+    },
+    {
+      "file_name": "v13_frame_0008_9.00s.png",
+      "height": 1080,
+      "width": 1920,
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Display"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "area": 48967.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          839,
+          655,
+          1134,
+          654,
+          1137,
+          822,
+          842,
+          819,
+          839,
+          655
+        ]
+      ],
+      "bbox": [
+        839,
+        654,
+        298,
+        168
+      ]
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "area": 53457.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          831,
+          482,
+          1140,
+          482,
+          1140,
+          655,
+          831,
+          655
+        ]
+      ],
+      "bbox": [
+        831,
+        482,
+        309,
+        173
+      ]
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "area": 52530.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          817,
+          540,
+          1126,
+          540,
+          1126,
+          710,
+          817,
+          710
+        ]
+      ],
+      "bbox": [
+        817,
+        540,
+        309,
+        170
+      ]
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "area": 51912.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          800,
+          571,
+          1109,
+          571,
+          1109,
+          739,
+          800,
+          739
+        ]
+      ],
+      "bbox": [
+        800,
+        571,
+        309,
+        168
+      ]
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "area": 51436.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          794,
+          556,
+          1102,
+          556,
+          1102,
+          723,
+          794,
+          723
+        ]
+      ],
+      "bbox": [
+        794,
+        556,
+        308,
+        167
+      ]
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "area": 52162.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          799,
+          561,
+          1099,
+          553,
+          1100,
+          727,
+          799,
+          733,
+          797,
+          561
+        ]
+      ],
+      "bbox": [
+        797,
+        553,
+        303,
+        180
+      ]
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "area": 50567.5,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          801,
+          563,
+          1100,
+          559,
+          1108,
+          728,
+          805,
+          731,
+          803,
+          561
+        ]
+      ],
+      "bbox": [
+        801,
+        559,
+        307,
+        172
+      ]
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "area": 52938.0,
+      "iscrowd": 0,
+      "segmentation": [
+        [
+          808,
+          602,
+          1114,
+          602,
+          1114,
+          775,
+          808,
+          775
+        ]
+      ],
+      "bbox": [
+        808,
+        602,
+        306,
+        173
+      ]
+    }
+  ]
+}

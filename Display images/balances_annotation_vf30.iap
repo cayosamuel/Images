@@ -1,0 +1,87 @@
+{
+  "classes": [
+    {
+      "name": "Display",
+      "color": "#ff0000"
+    }
+  ],
+  "images": [
+    {
+      "file_name": "v30_frame_0001_2.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v30_frame_0002_3.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v30_frame_0003_4.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v30_frame_0004_5.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v30_frame_0005_6.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v30_frame_0006_7.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v30_frame_0007_8.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v30_frame_0008_9.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v30_frame_0009_10.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    }
+  ],
+  "image_paths": {
+    "v30_frame_0001_2.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0001_2.00s.png",
+    "v30_frame_0002_3.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0002_3.00s.png",
+    "v30_frame_0003_4.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0003_4.00s.png",
+    "v30_frame_0004_5.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0004_5.00s.png",
+    "v30_frame_0005_6.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0005_6.00s.png",
+    "v30_frame_0006_7.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0006_7.00s.png",
+    "v30_frame_0007_8.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0007_8.00s.png",
+    "v30_frame_0008_9.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0008_9.00s.png",
+    "v30_frame_0009_10.00s.png": "D:/Download/Projet balance\\images\\v30_frame_0009_10.00s.png"
+  },
+  "notes": "balance d30\n",
+  "creation_date": "2026-04-30T23:36:25.138572",
+  "last_modified": "2026-04-30T23:37:32.193653"
+}

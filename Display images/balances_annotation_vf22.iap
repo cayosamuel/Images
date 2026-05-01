@@ -1,0 +1,71 @@
+{
+  "classes": [
+    {
+      "name": "Display",
+      "color": "#ff0000"
+    }
+  ],
+  "images": [
+    {
+      "file_name": "v22_frame_0001_3.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v22_frame_0002_4.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v22_frame_0003_5.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v22_frame_0004_6.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v22_frame_0005_7.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v22_frame_0006_8.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    },
+    {
+      "file_name": "v22_frame_0007_9.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {}
+    }
+  ],
+  "image_paths": {
+    "v22_frame_0001_3.00s.png": "D:/Download/Projet balance\\images\\v22_frame_0001_3.00s.png",
+    "v22_frame_0002_4.00s.png": "D:/Download/Projet balance\\images\\v22_frame_0002_4.00s.png",
+    "v22_frame_0003_5.00s.png": "D:/Download/Projet balance\\images\\v22_frame_0003_5.00s.png",
+    "v22_frame_0004_6.00s.png": "D:/Download/Projet balance\\images\\v22_frame_0004_6.00s.png",
+    "v22_frame_0005_7.00s.png": "D:/Download/Projet balance\\images\\v22_frame_0005_7.00s.png",
+    "v22_frame_0006_8.00s.png": "D:/Download/Projet balance\\images\\v22_frame_0006_8.00s.png",
+    "v22_frame_0007_9.00s.png": "D:/Download/Projet balance\\images\\v22_frame_0007_9.00s.png"
+  },
+  "notes": "balance d22\n",
+  "creation_date": "2026-04-30T23:15:26.885541",
+  "last_modified": "2026-04-30T23:15:53.508670"
+}

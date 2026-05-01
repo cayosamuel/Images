@@ -1,0 +1,267 @@
+{
+  "classes": [
+    {
+      "name": "Display",
+      "color": "#ff0000"
+    }
+  ],
+  "images": [
+    {
+      "file_name": "v14_frame_0002_3.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              665,
+              746,
+              988,
+              693,
+              1018,
+              872,
+              697,
+              933,
+              666,
+              743
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v14_frame_0003_4.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              670,
+              571,
+              1017,
+              544,
+              1036,
+              730,
+              692,
+              770,
+              669,
+              571
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v14_frame_0004_5.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              689,
+              587,
+              1034,
+              560,
+              1050,
+              746,
+              710,
+              790,
+              688,
+              586
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v14_frame_0005_6.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              671,
+              646,
+              1017,
+              612,
+              1044,
+              800,
+              694,
+              844,
+              670,
+              646
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v14_frame_0006_7.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              686,
+              635,
+              1027,
+              606,
+              1048,
+              792,
+              702,
+              836,
+              684,
+              637
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v14_frame_0007_8.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              683,
+              622,
+              1021,
+              595,
+              1046,
+              782,
+              702,
+              825,
+              681,
+              620
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v14_frame_0008_9.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              690,
+              649,
+              1029,
+              626,
+              1046,
+              812,
+              706,
+              849,
+              689,
+              649
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v14_frame_0009_10.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              685,
+              648,
+              1026,
+              627,
+              1045,
+              817,
+              701,
+              851,
+              683,
+              649
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "v14_frame_0010_11.00s.png",
+      "width": 1920,
+      "height": 1080,
+      "is_multi_slice": false,
+      "annotations": {
+        "Display": [
+          {
+            "segmentation": [
+              688,
+              643,
+              1029,
+              622,
+              1045,
+              805,
+              703,
+              840,
+              686,
+              642
+            ],
+            "category_id": 1,
+            "category_name": "Display",
+            "number": 1
+          }
+        ]
+      }
+    }
+  ],
+  "image_paths": {
+    "v14_frame_0002_3.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0002_3.00s.png",
+    "v14_frame_0003_4.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0003_4.00s.png",
+    "v14_frame_0004_5.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0004_5.00s.png",
+    "v14_frame_0005_6.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0005_6.00s.png",
+    "v14_frame_0006_7.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0006_7.00s.png",
+    "v14_frame_0007_8.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0007_8.00s.png",
+    "v14_frame_0008_9.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0008_9.00s.png",
+    "v14_frame_0009_10.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0009_10.00s.png",
+    "v14_frame_0010_11.00s.png": "D:/Download/Projet balance\\images\\v14_frame_0010_11.00s.png"
+  },
+  "notes": "balance d14",
+  "creation_date": "2026-04-30T22:38:57.157928",
+  "last_modified": "2026-04-30T22:41:15.843136"
+}
